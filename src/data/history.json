@@ -1,0 +1,29 @@
+[
+    {
+      "role": "Cybersecurity Intern",
+      "organisation": "WRLDC",
+      "startDate": "June, 2024",
+      "endDate": "Present",
+      "experiences": ["Develop a ML based log analysis tool", "Conducted log analysis using Wazuh"],
+      "imageSrc": "history/wrldcLogo2.png"
+    },
+    {
+      "role": "Vice-Captain",
+      "organisation": "MPSTME AeroXperts",
+      "startDate": "Mar, 2024",
+      "endDate": "Present",
+      "experiences": ["Developed a autonomous drone", "Led the team in multiple events and competitions"],
+      "imageSrc": "history/aeroxpertsLogo.png"
+    },
+    {
+      "role": "DAQ Head",
+      "organisation": "MPSTME Racing Team",
+      "startDate": "Aug, 2024",
+      "endDate": "Present",
+      "experiences": [
+        "Developed a custom vehicle tracking system",
+        "Leading a team to integrate advanced features into the system"
+      ],
+      "imageSrc": "history/mrtLogo.png"
+    }
+  ]

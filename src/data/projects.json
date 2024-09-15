@@ -1,0 +1,26 @@
+[
+    {
+      "title": "DAQ System",
+      "imageSrc": "projects/daqImage.png",
+      "description": "A custom 3 component DAQ system for mBaja car of MPSTME.",
+      "skills": ["Android", "Firebase"],
+      "demo": "https://svkmmumbai-my.sharepoint.com/my?id=%2Fpersonal%2Feesh%5Fgharat26%5Fnmims%5Fin%2FDocuments%2FCV%2FMRT%20DAQ%2Epng&parent=%2Fpersonal%2Feesh%5Fgharat26%5Fnmims%5Fin%2FDocuments%2FCV&ga=1",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Penetration Testing",
+      "imageSrc": "projects/vaptImage.png",
+      "description": "Vulnerability assessment and penetration testing of the humbleify box.",
+      "skills": ["Metasploit", "Kali"],
+      "demo": "https://svkmmumbai-my.sharepoint.com/my?id=%2Fpersonal%2Feesh%5Fgharat26%5Fnmims%5Fin%2FDocuments%2FCV%2FK011%5FK014%5FK017%5FK041%5FHUMBLEIFY%20PENETRATION%20TEST%20AND%20REPORT%2Epdf&parent=%2Fpersonal%2Feesh%5Fgharat26%5Fnmims%5Fin%2FDocuments%2FCV&ga=1",
+      "source": "https://www.github.com"
+    },
+    {
+      "title": "Autonomous UAV",
+      "imageSrc": "projects/droneImage.png",
+      "description": "Developed a drone  to detect hotspots, target and drop a payload.",
+      "skills": ["Python", "Pymavlink"],
+      "demo": "https://svkmmumbai-my.sharepoint.com/personal/eesh_gharat26_nmims_in/_layouts/15/stream.aspx?id=%2Fpersonal%2Feesh%5Fgharat26%5Fnmims%5Fin%2FDocuments%2FCV%2FAutonomous%20UAV%2Emp4&nav=eyJyZWZlcnJhbEluZm8iOnsicmVmZXJyYWxBcHAiOiJPbmVEcml2ZUZvckJ1c2luZXNzIiwicmVmZXJyYWxBcHBQbGF0Zm9ybSI6IldlYiIsInJlZmVycmFsTW9kZSI6InZpZXciLCJyZWZlcnJhbFZpZXciOiJNeUZpbGVzTGlua0NvcHkifX0&ga=1&referrer=StreamWebApp%2EWeb&referrerScenario=AddressBarCopied%2Eview%2E092af9e7%2Dbf7d%2D40b4%2D973b%2D377c2c3cc4d0",
+      "source": "https://www.github.com"
+    }
+  ]

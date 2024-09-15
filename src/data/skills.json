@@ -1,0 +1,42 @@
+[
+    {
+      "title": "Kali",
+      "imageSrc": "skills/kaliLogo.png"
+    },
+    {
+      "title": "Metasploit",
+      "imageSrc": "skills/metasploitLogo.png"
+    },
+    {
+      "title": "Burpsuite",
+      "imageSrc": "skills/burpsuiteLogo.png"
+    },
+    {
+      "title": "Wazuh",
+      "imageSrc": "skills/wazuhLogo.png"
+    },
+    {
+      "title": "Wireshark",
+      "imageSrc": "skills/wiresharkLogo.png"
+    },
+    {
+      "title": "Autopsy",
+      "imageSrc": "skills/autopsyLogo.png"
+    },
+    {
+      "title": "OWASP",
+      "imageSrc": "skills/owaspLogo.png"
+    },
+    {
+      "title": "Mitre",
+      "imageSrc": "skills/mitreLogo.png"
+    },
+    {
+      "title": "Solidworks",
+      "imageSrc": "skills/solidworksLogo.png"
+    },
+    {
+      "title": "Arduino",
+      "imageSrc": "skills/arduinoLogo.png"
+    }
+  ]
